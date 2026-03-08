@@ -1,0 +1,3 @@
+1;assistir um fime;assistir um filme;3;false
+3;Estudar NextJS;Estudar;1;false
+4;Aprender Estrutura de Dados;Estudar né nego;2;false
